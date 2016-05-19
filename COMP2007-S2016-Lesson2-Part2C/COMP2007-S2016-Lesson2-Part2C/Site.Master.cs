@@ -24,7 +24,7 @@ namespace COMP2007_S2016_Lesson2_Part2C
         {
             switch (Page.Title)
             {
-                case "Home":
+                case "Home Page":
                     home.Attributes.Add("class", "active");
                     break;
                 case "Products":
