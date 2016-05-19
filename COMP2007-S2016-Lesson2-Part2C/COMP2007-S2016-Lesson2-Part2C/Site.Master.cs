@@ -13,9 +13,9 @@ namespace COMP2007_S2016_Lesson2_Part2C
         {
             addActiveClass();
             /**
-            *this method adds class of active to list items
+            *this method adds class of active to list items in the main navbar depending on page title
             *
-            *
+            *@method addActiveClass
             *@return{String}
             */
         }
